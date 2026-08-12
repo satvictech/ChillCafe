@@ -1,8 +1,5 @@
 #!/usr/bin/env node
-/**
- * Regenerates lib/blur.ts, the inline LQIP placeholder behind every photo.
- * Run after dropping new images into /public:  npm run blur
- */
+// Regenerates lib/blur.ts. Run after adding images to /public: npm run blur
 import sharp from "sharp";
 import { readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";

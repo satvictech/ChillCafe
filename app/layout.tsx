@@ -5,8 +5,9 @@ import "./globals.css";
 import { Nav } from "@/components/site/Nav";
 import { Footer } from "@/components/site/Footer";
 import { OrderBar } from "@/components/site/OrderBar";
+import { TrayPanel } from "@/components/cart/TrayPanel";
 import { Spotlight } from "@/components/ui/Spotlight";
-import { site, fullAddress } from "@/lib/site";
+import { site } from "@/lib/site";
 import { menu } from "@/lib/menu";
 
 const display = Bricolage_Grotesque({
@@ -168,7 +169,6 @@ function StructuredData() {
   return (
     <script
       type="application/ld+json"
-      // eslint-disable-next-line react/no-danger
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />
   );
@@ -194,6 +194,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <main id="main">{children}</main>
         <Footer />
         <OrderBar />
+        <TrayPanel />
 
         <div aria-hidden className="grain" />
       </body>

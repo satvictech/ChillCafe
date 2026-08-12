@@ -4,12 +4,13 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion, useMotionValueEvent, useScroll } from "motion/react";
-import { Menu, X, Phone } from "lucide-react";
+import { Menu, X, Phone, ShoppingBag } from "lucide-react";
 import { nav, site } from "@/lib/site";
 import { Wordmark } from "@/components/ui/Wordmark";
 import { FireButton } from "@/components/ui/Button";
 import { OpenNow } from "@/components/ui/OpenNow";
 import { cn } from "@/lib/utils";
+import { trayPanel, useTray } from "@/lib/tray";
 
 const EASE = [0.16, 1, 0.3, 1] as const;
 
@@ -18,10 +19,10 @@ export function Nav() {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
   const { scrollY } = useScroll();
+  const { count } = useTray();
 
   useMotionValueEvent(scrollY, "change", (y) => setScrolled(y > 24));
 
-  useEffect(() => setOpen(false), [pathname]);
   useEffect(() => {
     document.body.style.overflow = open ? "hidden" : "";
     return () => {
@@ -60,7 +61,7 @@ export function Nav() {
                   key={item.href}
                   href={item.href}
                   className={cn(
-                    "relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300",
+                    "relative isolate rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300",
                     active ? "text-cream" : "text-muted hover:text-cream"
                   )}
                 >
@@ -78,6 +79,20 @@ export function Nav() {
           </nav>
 
           <div className="flex items-center gap-2.5">
+            {count > 0 && (
+              <button
+                type="button"
+                onClick={() => trayPanel.set(true)}
+                aria-label={`Open your tray, ${count} item${count === 1 ? "" : "s"}`}
+                className="relative flex size-10 items-center justify-center rounded-full border border-amber/40 bg-amber/[0.08] text-amber transition-colors hover:bg-amber/15"
+              >
+                <ShoppingBag className="size-4" strokeWidth={2.3} />
+                <span className="absolute -right-1 -top-1 flex min-w-[1.125rem] items-center justify-center rounded-full border border-ink bg-crimson px-1 font-display text-[0.625rem] font-bold text-cream">
+                  {count}
+                </span>
+              </button>
+            )}
+
             <a
               href={`tel:${site.phones[0].tel}`}
               aria-label="Call Chill Cafe"
@@ -154,6 +169,7 @@ export function Nav() {
                   >
                     <Link
                       href={item.href}
+                      onClick={() => setOpen(false)}
                       className="group flex items-baseline gap-4 border-b border-linen/[0.07] py-5"
                     >
                       <span className="font-display text-xs font-semibold text-amber/60">

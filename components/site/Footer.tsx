@@ -129,7 +129,7 @@ export function Footer() {
         </div>
 
         <div aria-hidden className="pointer-events-none mt-20 select-none overflow-hidden">
-          <p className="whitespace-nowrap text-center font-display text-[clamp(3rem,15vw,12rem)] font-extrabold leading-none tracking-tighter text-linen/[0.035]">
+          <p className="mask-fade-x whitespace-nowrap text-center font-display text-[clamp(2rem,11vw,8rem)] font-extrabold leading-none tracking-tighter text-linen/[0.04]">
             GOOD FOOD · GOOD MOOD
           </p>
         </div>

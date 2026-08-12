@@ -2,12 +2,15 @@
 
 import { AnimatePresence, motion, useMotionValueEvent, useScroll } from "motion/react";
 import { useState } from "react";
-import { Phone, Navigation } from "lucide-react";
+import { Phone, Navigation, ShoppingBag } from "lucide-react";
 import { site, mapsDirections } from "@/lib/site";
+import { rupees } from "@/lib/utils";
+import { trayPanel, useTray } from "@/lib/tray";
 
 export function OrderBar() {
   const [show, setShow] = useState(false);
   const { scrollY } = useScroll();
+  const { count, total } = useTray();
 
   useMotionValueEvent(scrollY, "change", (y) => {
     setShow(y > 620);
@@ -24,16 +27,31 @@ export function OrderBar() {
           className="fixed inset-x-0 bottom-0 z-40 px-3 pb-3 lg:hidden"
         >
           <div className="flex items-center gap-2 rounded-2xl border border-linen/12 bg-ink/85 p-2 shadow-[0_-8px_40px_-12px_rgba(0,0,0,0.9)] backdrop-blur-xl">
-            <a
-              href={site.order.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="relative flex flex-1 items-center justify-center overflow-hidden rounded-xl py-3.5 text-sm font-bold text-ink"
-            >
-              <span className="absolute inset-0 bg-[linear-gradient(100deg,#ffb020,#ff8f28_40%,#ff6a13_75%,#e8371f)]" />
-              <span className="absolute inset-x-0 top-0 h-1/2 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.4),transparent)]" />
-              <span className="relative">Order Online</span>
-            </a>
+            {count > 0 ? (
+              <button
+                type="button"
+                onClick={() => trayPanel.set(true)}
+                className="relative flex flex-1 items-center justify-center gap-2 overflow-hidden rounded-xl py-3.5 text-sm font-bold text-ink"
+              >
+                <span className="absolute inset-0 bg-[linear-gradient(100deg,#ffb020,#ff8f28_40%,#ff6a13_75%,#e8371f)]" />
+                <span className="absolute inset-x-0 top-0 h-1/2 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.4),transparent)]" />
+                <span className="relative flex items-center gap-2">
+                  <ShoppingBag className="size-4" strokeWidth={2.5} />
+                  View tray ({count}) · {rupees(total)}
+                </span>
+              </button>
+            ) : (
+              <a
+                href={site.order.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="relative flex flex-1 items-center justify-center overflow-hidden rounded-xl py-3.5 text-sm font-bold text-ink"
+              >
+                <span className="absolute inset-0 bg-[linear-gradient(100deg,#ffb020,#ff8f28_40%,#ff6a13_75%,#e8371f)]" />
+                <span className="absolute inset-x-0 top-0 h-1/2 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.4),transparent)]" />
+                <span className="relative">Order Online</span>
+              </a>
+            )}
             <a
               href={`tel:${site.phones[0].tel}`}
               aria-label="Call Chill Cafe"

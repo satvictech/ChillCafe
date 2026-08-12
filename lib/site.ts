@@ -33,10 +33,39 @@ export const site = {
     { display: "+91 98181 34849", tel: "+919818134849", raw: "9818134849" },
   ],
 
+  whatsapp: "919818134849",
+
   instagram: {
     handle: "chill_cafe000",
     url: "https://www.instagram.com/chill_cafe000/",
   },
+
+  listings: [
+    {
+      name: "Justdial",
+      rating: 4.6,
+      count: 35,
+      url: "https://www.justdial.com/Delhi/Chill-Cafe-Nilothi/011PXX11-XX11-250115191330-R5Q4_BZDET",
+    },
+    {
+      name: "Magicpin",
+      rating: 4.5,
+      count: 25,
+      url: "https://magicpin.in/New-Delhi/Nilothi/Restaurant/Chill-Cafe/store/1743286",
+    },
+    {
+      name: "Zomato",
+      rating: null,
+      count: null,
+      url: "https://www.zomato.com/ncr/chill-cafe-nilothi-new-delhi",
+    },
+    {
+      name: "Swiggy Dineout",
+      rating: null,
+      count: null,
+      url: "https://www.swiggy.com/restaurants/chill-cafe-nangloi-delhi-1327792/dineout",
+    },
+  ],
 
   order: {
     url: "https://locseva.satvictech.com/r/chill-cafe",
@@ -62,9 +91,14 @@ export const mapsEmbed = `https://www.google.com/maps?q=${encodeURIComponent(
 )}&z=16&output=embed`;
 
 export const whatsapp = (message = "Hi Chill Cafe! I'd like to place an order.") =>
-  `https://wa.me/${site.phones[0].raw.replace(/\D/g, "").padStart(12, "91")}?text=${encodeURIComponent(
-    message
-  )}`;
+  `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
+
+/** LocSeva accepts ?items=Name xQty, Name xQty to prefill the order form. */
+export const orderUrl = (items?: { name: string; qty: number }[]) => {
+  if (!items?.length) return site.order.url;
+  const list = items.map((i) => `${i.name} x${i.qty}`).join(", ");
+  return `${site.order.url}?items=${encodeURIComponent(list)}`;
+};
 
 export const fullAddress = [
   site.address.line1,
@@ -75,7 +109,8 @@ export const fullAddress = [
 export const nav = [
   { href: "/", label: "Home" },
   { href: "/menu", label: "Menu" },
-  { href: "/story", label: "Our Story" },
+  { href: "/room", label: "3D Room" },
   { href: "/gallery", label: "Gallery" },
+  { href: "/story", label: "Story" },
   { href: "/visit", label: "Visit" },
 ] as const;

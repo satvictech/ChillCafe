@@ -7,12 +7,6 @@ export function cn(...inputs: ClassValue[]) {
 
 export const rupees = (n: number) => `₹${n}`;
 
-export const slug = (s: string) =>
-  s
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-
 export function openStatus(opens = "11:00", closes = "22:30") {
   const now = new Date();
   const ist = new Date(

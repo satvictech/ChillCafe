@@ -1,9 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  turbopack: { root: __dirname },
+
   // lucide-react ships 4,000+ icons behind a barrel file; rewrite to direct imports.
   experimental: {
-    optimizePackageImports: ["lucide-react", "motion", "motion/react"],
+    optimizePackageImports: ["lucide-react", "motion", "motion/react", "@react-three/drei"],
   },
 
   images: {

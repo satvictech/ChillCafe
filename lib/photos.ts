@@ -1,38 +1,23 @@
-/**
- * Every real photo of the cafe lives here.
- *
- * TO ADD MORE PHOTOS
- *   1. drop the file into /public  (jpg | webp | avif — any size)
- *   2. add an entry below with a real `alt` and `caption`
- *   3. that's it — hero, gallery, story and visit all read from this list
- *
- * `focus` is a CSS object-position: it decides what stays in frame when a
- * photo gets cropped into a tall or wide slot.
- */
-
 export type Photo = {
   src: string;
   alt: string;
   width: number;
   height: number;
-  /** Shown under the photo in the gallery. */
   caption: string;
-  /** Small label chip. */
-  tag: "Storefront" | "Inside" | "Food" | "Moments";
+  tag: "Storefront" | "Inside" | "Kitchen" | "Moments";
   focus?: string;
-  /** Orientation hint used for gallery layout. */
-  shape: "portrait" | "landscape" | "square";
+  shape: "portrait" | "landscape";
 };
 
 export const photos: Photo[] = [
   {
     src: "/chillcafe1.avif",
-    alt: "The Chill Cafe storefront in Nangloi — red signboard with white lettering, pure veg, glass frontage",
+    alt: "Chill Cafe storefront in Nangloi — red signboard with white lettering, pure veg, glass frontage",
     width: 1200,
     height: 1600,
     caption: "The red board on Nilothi Mode. You'll spot it before you find the address.",
     tag: "Storefront",
-    focus: "50% 28%",
+    focus: "50% 30%",
     shape: "portrait",
   },
   {
@@ -40,7 +25,7 @@ export const photos: Photo[] = [
     alt: "Inside Chill Cafe — chalkboard cafe wall, brass clock, red chairs and marble-top tables",
     width: 600,
     height: 468,
-    caption: "The corner booth, under the brass clock. The one everyone asks for.",
+    caption: "The corner booth under the brass clock — the one everyone asks for.",
     tag: "Inside",
     focus: "50% 45%",
     shape: "landscape",
@@ -57,8 +42,84 @@ export const photos: Photo[] = [
   },
 ];
 
-export const photoBySrc = (src: string) => photos.find((p) => p.src === src)!;
+// Stock mood photography, not Chill Cafe's own plates. See README to swap.
+export type Atmos = {
+  src: string;
+  alt: string;
+  focus?: string;
+  credit: string;
+};
 
-/** The photo that carries the brand — used in the hero. */
+export const atmos = {
+  pizzaOven: {
+    src: "/atmos-pizza-oven.jpg",
+    alt: "A pizza baking in a wood-fired oven, flame curling over the crust",
+    focus: "50% 55%",
+    credit: "unsplash.com/photos/photo-1705079895550",
+  },
+  shake: {
+    src: "/atmos-shake.jpg",
+    alt: "A tall chocolate shake topped with cream, lit against a dark background",
+    focus: "50% 40%",
+    credit: "unsplash.com/photos/photo-1653122025865",
+  },
+  kulladChai: {
+    src: "/atmos-kullad-chai.jpg",
+    alt: "Steam rising from a clay kulhad of masala chai beside green cardamom",
+    focus: "50% 45%",
+    credit: "unsplash.com/photos/photo-1778603000144",
+  },
+  coffeeBeans: {
+    src: "/atmos-coffee-beans.jpg",
+    alt: "Roasted coffee beans filling the frame",
+    focus: "50% 50%",
+    credit: "unsplash.com/photos/photo-1606486544554",
+  },
+} satisfies Record<string, Atmos>;
+
+// Keyed by exact menu item name. Missing key -> DishPlate draws a plate instead.
+export const dishPhotos: Record<string, { src: string; alt: string; focus?: string }> = {
+  "Spl. Chill Cafe Pizza": {
+    src: "/atmos-pizza-oven.jpg",
+    alt: "A pizza finishing in a wood-fired oven, flame licking over the crust",
+    focus: "50% 58%",
+  },
+  "Cheese Burst Pizza": {
+    src: "/dish-pizza-cheese.jpg",
+    alt: "A margherita pizza on a wooden board, blistered crust and melted mozzarella",
+    focus: "52% 48%",
+  },
+  "Spl. Mushroom Cheese Fried Rice": {
+    src: "/dish-fried-rice.jpg",
+    alt: "Fried rice tossed with corn, carrot and spring onion in a black pan",
+    focus: "50% 50%",
+  },
+  "Brownie Shake": {
+    src: "/atmos-shake.jpg",
+    alt: "A tall chocolate shake with cream on top, lit against a dark background",
+    focus: "50% 42%",
+  },
+  "Manchow Soup": {
+    src: "/dish-soup.jpg",
+    alt: "A dark bowl of spiced soup topped with herbs, shot from above",
+    focus: "50% 50%",
+  },
+  "Virgin Mojito": {
+    src: "/dish-mojito.jpg",
+    alt: "A tall mojito packed with crushed ice and mint on a dark bar counter",
+    focus: "50% 45%",
+  },
+  "Chocolate Waffle": {
+    src: "/dish-waffle.jpg",
+    alt: "Warm waffles dusted with sugar and topped with a scoop of ice cream",
+    focus: "50% 52%",
+  },
+  "Kullad Masala Tea": {
+    src: "/atmos-kullad-chai.jpg",
+    alt: "Steam rising from a clay kulhad of masala chai beside green cardamom",
+    focus: "50% 48%",
+  },
+};
+
 export const heroPhoto = photos[0];
 export const roomPhotos = photos.filter((p) => p.tag === "Inside");

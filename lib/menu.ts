@@ -236,8 +236,6 @@ export const allItems = menu.flatMap((c) =>
   )
 );
 
-export type FlatItem = (typeof allItems)[number];
-
 export const signatures = allItems.filter((i) => i.signature);
 
 export const itemCount = allItems.length;
@@ -246,8 +244,6 @@ export const priceRange = {
   min: Math.min(...allItems.map((i) => i.price)),
   max: Math.max(...allItems.map((i) => i.price)),
 };
-
-export const categoryById = (id: string) => menu.find((c) => c.id === id);
 
 export const heroPicks = [
   "Spl. Chill Cafe Pizza",

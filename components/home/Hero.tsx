@@ -85,7 +85,7 @@ export function Hero() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.9, delay: 0.16, ease: EASE }}
-              className="mt-1 block font-script text-[1.15em] font-normal leading-[0.9] tracking-normal text-ember-gradient"
+              className="script-gradient mt-1 block text-[1.12em] font-normal tracking-normal"
             >
               just for you
             </motion.span>
@@ -108,10 +108,12 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.38, ease: EASE }}
             className="mt-9 flex flex-wrap items-center gap-3"
           >
-            <FireButton href={site.order.url} external>
+            <FireButton href={site.order.url} external className="w-full sm:w-auto">
               Order Online
             </FireButton>
-            <GhostButton href="/menu">See the full menu</GhostButton>
+            <GhostButton href="/menu" className="w-full sm:w-auto">
+              See the full menu
+            </GhostButton>
           </motion.div>
 
           <motion.dl
