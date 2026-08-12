@@ -26,8 +26,14 @@ Isme aapka pura menu hai (saare 67 items, actual prices), aapke photos,
 timing, rating, cafe ka 3D view, aur "Order Online" button jo order
 seedha aapke paas bhejta hai. Phone pe khol ke dekhiye.
 
-Aisi website ka normal rate ₹10,000+ hota hai.
-Aapke liye ₹500 — sirf ek baar, kyunki ye already bani hui hai.
+Ek baar dhyan se dekhiye — cafe ka 3D view, menu pe search, phone pe kitni
+fast khulti hai, ordering bhi isi mein. Delhi mein aisi website ka rate
+₹10,000 se ₹25,000 tak hota hai. Koi bhi agency itna hi bolegi.
+
+Hum ₹500 maang rahe hain.
+
+Isme kuch kam nahi kiya gaya — bilkul wahi hai jo aapne abhi dekha. Rate itna
+kam hai kyunki hum naye hain aur kaam chahiye. Bas yahi wajah hai.
 
 LocSeva (hamara online ordering system) ke baare mein:
 
@@ -65,8 +71,14 @@ It has your full menu (all 67 items with real prices), your photos, your
 timings, your rating, a 3D view of your cafe, and an "Order Online"
 button that sends orders straight to you. Please open it on your phone.
 
-A website like this normally costs ₹10,000 or more.
-For you it's ₹500 — one time, because it's already built.
+Look at it once more — the 3D view of your room, the search on the menu, how
+fast it opens, ordering built right in. In Delhi that's a ₹10,000 to ₹25,000
+website. Any agency will quote you that.
+
+We're asking ₹500.
+
+Nothing has been cut out — it's exactly what you just opened. The price is this
+low because we're new and we want the work. That's the only reason.
 
 About LocSeva (our online ordering system):
 
@@ -108,7 +120,9 @@ Order Online button — sab isme hai. Phone pe khol ke dekhiye.
 ```
 
 ```
-Aisi website ka normal rate ₹10,000+ hota hai. Aapke liye ₹500, ek baar.
+Delhi mein aisi website ₹10,000–₹25,000 ki hoti hai. Hum ₹500 maang rahe hain,
+ek baar. Kuch kam nahi kiya gaya — hum naye hain aur kaam chahiye, bas itni
+si baat hai.
 
 Saath mein LocSeva (online ordering) pura 1 mahina free — koi charge
 nahi, card nahi. Khud dekh lijiye: locseva.satvictech.com
@@ -181,7 +195,10 @@ baad mein extend bhi kar sakte hain.
   see their own cafe and their own prices, and reply.
 - **Ask them to open it on a phone.** That's where it looks best and where
   their customers will see it.
-- **Keep ₹10,000 and ₹500 in the same message.** That contrast does the work.
+- **Keep ₹10,000 and ₹500 in the same message, and explain the gap.** The
+  contrast does the persuading, but an unexplained bargain makes an owner
+  wonder what's missing. "Kuch kam nahi kiya gaya, hum naye hain aur kaam
+  chahiye" is the line that turns that suspicion into goodwill.
 - **The "no risk" part matters more than the price.** Free month, access ends
   by itself, nothing to cancel, no auto-charge, extendable if they like it.
   Say all five — that's what removes the hesitation.

@@ -35,9 +35,12 @@ understand online ordering until they've tapped through it once. Every message
 below tells them to do exactly two things: look at the menu, then press "Order
 Online". That second tap is what sells LocSeva.
 
-**3. Never write "cheap".** Say *"our rates are deliberately low"* or *"we're
-just starting out"*. Cheap makes an owner wonder what's wrong with it.
-Low-because-we're-new is a reason they can accept, and it's true.
+**3. Say the price loudly, then explain it.** Don't be shy about ₹{PRICE} — the
+gap between the quality and the price is your strongest card, so name both in
+the same breath. But always answer the question it creates. A cafe owner seeing
+a ₹10,000 website for ₹{PRICE} thinks *"what's missing?"*, and if you don't
+answer that, they assume the worst. The answer is: nothing is missing, we're
+new and want the work. Say exactly that.
 
 When a cafe actually signs up, you earn the right to a better line — *"{CAFE} in
 {AREA} has been taking orders on it since {MONTH}"*. One honest sentence like
@@ -88,12 +91,19 @@ WHAT LOCSEVA DOES FOR YOU
 • No commission on any order, and the customer's number stays with you, so
   repeat orders are yours and not an aggregator's.
 
-WHAT WE DO, AND WHAT IT COSTS
-We keep our rates deliberately small — we'd rather build a name around Delhi
-than charge a lot to a handful of places.
+WHAT IT COSTS — AND WHY IT'S THIS LOW
+Look at the demo once more: the 3D view of the room, the search on the menu,
+how fast it opens on your phone, ordering built straight into it. In Delhi that
+is a ₹10,000 to ₹25,000 website. Any agency will quote you that.
 
-• Website for your cafe — ₹10,000+ is the normal rate anywhere else.
-  For you, ₹{PRICE}, one time.
+We're asking ₹{PRICE}.
+
+Nothing is cut out — what you'd get is exactly what you just looked at. The
+price is low because we're new and we want the work. That's the whole reason.
+We'd rather have a few cafes around Delhi who genuinely like what we made than
+charge full rate to nobody.
+
+• Website for your cafe — ₹{PRICE}, one time.
 • Your full menu typed in and set up — included, I do it myself.
 • Set up for Google, so people searching "cafe in {AREA}" find your address,
   timings and number — included.
@@ -138,16 +148,20 @@ system. We can build yours exactly like this with your menu and prices.
 ```
 What it would cost you:
 
-• Website — normally ₹10,000+, for you ₹{PRICE} one time
+That demo — 3D view, searchable menu, ordering built in — is a ₹10,000 to
+₹25,000 website in Delhi. We're asking ₹{PRICE}, one time.
+
+Nothing is cut out, it's the same thing you just opened. It's this low because
+we're new and want the work. That's honestly the only reason.
+
+• Website — ₹{PRICE} one time
 • Menu setup, Google listing and your photos — included, I do all of it
 • LocSeva ordering — free for the first 30 days, no card, no advance
 • It doesn't auto-renew. After 30 days it stops by itself — nothing to cancel.
 • Liked it by then? Tell me and I'll extend it for you.
 • Don't like it earlier? Say so and we remove it same day.
 
-Our rates are deliberately low — we're starting out and would rather build a
-name around Delhi. No commission on orders either, and your customers stay
-yours, not Zomato's.
+No commission on orders either, and your customers stay yours, not Zomato's.
 
 Want to see the owner's side? Log in here and place a test order on the demo
 to watch it come through:
@@ -173,10 +187,12 @@ Press "Order Online" on it to see the ordering system working.
 Want to see where orders land? Log in at locseva.satvictech.com with
 9999999999 / PIN 2000 and place a test order on the demo.
 
-Send me a photo of your menu and I'll build yours the same way — menu setup
-included. Websites start at ₹{PRICE} (normally ₹10,000+), and ordering is
-free for the first 30 days. It stops by itself after that, and if you like it
-we'll extend it. If not, no problem at all 🙂
+That's a ₹10,000+ website anywhere else. We charge ₹{PRICE} because we're new
+and want the work — nothing is cut out of it.
+
+Send me a photo of your menu and I'll build yours the same way, menu setup
+included. Ordering is free for the first 30 days, stops by itself after that,
+and we'll extend it if you like it. If not, no problem at all 🙂
 ```
 
 If they reply, send **A** or **B**.
@@ -227,8 +243,10 @@ No reply after this? Stop and move to the next cafe.
    in the dashboard has understood your entire product in about forty seconds.
 4. **Name something specific.** `{AREA}` and `{DISH}` prove you looked. Generic
    blasts get ignored, and owners can spot one instantly.
-5. **Put ₹10,000 and ₹{PRICE} in the same sentence.** The contrast persuades,
-   not the adjectives.
+5. **Put ₹10,000 and ₹{PRICE} in the same sentence, then explain the gap.**
+   The contrast is what persuades — but an unexplained bargain reads as a
+   catch. "Nothing is cut out, we're new and want the work" is the line that
+   turns suspicion into goodwill. Never leave the low price unexplained.
 6. **Say all five risk-removers.** Free month · doesn't auto-renew · stops by
    itself · nothing to cancel · extendable if they like it. Owners hesitate
    over what they're committing to, not over the money — and "we'll extend it
