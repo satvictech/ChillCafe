@@ -33,7 +33,9 @@ export const site = {
     { display: "+91 98181 34849", tel: "+919818134849", raw: "9818134849" },
   ],
 
-  whatsapp: "919818134849",
+  // Satvic Tech's number while the cafe is on trial — order handoffs come to
+  // us, not the kitchen, until they're paying. Swap to 919818134849 on signup.
+  whatsapp: "917827160996",
 
   instagram: {
     handle: "chill_cafe000",
