@@ -1,0 +1,209 @@
+# LocSeva pitch kit — local cafes in Delhi
+
+Reusable messages for pitching cafes. Replace anything in `{BRACES}`.
+
+```
+{CAFE}    cafe name you're pitching
+{AREA}    their locality or landmark, e.g. Mahavir Enclave, Dwarka
+{PRICE}   what you're charging them for the site
+{DISH}    one real thing off their menu or reviews
+{DEMO}    https://chill-cafe.vercel.app  ← always this, your live demo
+```
+
+## Two rules for using the demo
+
+**1. It's a demo, not a client.** Say *"this is a demo we've built"* and *"we can
+build yours like this"*. Never *"our client"*, *"we built this for them"*, or
+*"they run their orders on LocSeva"* — none of that is true yet, and a cafe
+owner who checks will find out. The demo is impressive on its own merits;
+it doesn't need a borrowed customer story.
+
+**2. Make them press the order button.** Owners understand a website. They don't
+understand online ordering until they've tapped through it once. Every message
+below tells them to do exactly two things: look at the menu, then press "Order
+Online". That second tap is what sells LocSeva.
+
+When a cafe actually signs up, you earn the right to a better line — *"{CAFE} in
+{AREA} has been taking orders on it since {MONTH}"*. One honest sentence like
+that will outperform everything in this file. Until then, the demo does the work.
+
+---
+
+## A. Main pitch — cold, no site built yet
+
+This is your workhorse. Scales to any number of cafes because the demo does the
+selling.
+
+```
+Hello {CAFE} team,
+
+I'm Sushil from Satvic Tech. We build websites and online ordering for small
+cafes around Delhi.
+
+Rather than explain it, here's a live demo we've built so you can see exactly
+what you'd get:
+
+{DEMO}
+
+Please open it on your phone and try two things:
+
+1. The menu page — the full menu with real prices, searchable
+2. The "Order Online" button — that's LocSeva, our ordering system, working live
+
+We can build yours exactly like this: your menu, your prices, your photos,
+your name, your timings.
+
+WHAT LOCSEVA DOES FOR YOU
+• Your own ordering page. Share the link on Instagram, or stick a QR code
+  near the counter.
+• Customers pick items, add their number, submit. No app for them to
+  download, no software for you to learn.
+• The order reaches you written down exactly — nothing misheard over a noisy
+  phone call during the evening rush.
+• No commission on any order, and the customer's number stays with you, so
+  repeat orders are yours and not an aggregator's.
+
+WHAT IT COSTS
+• Website: ₹10,000+ is the normal rate. For you, ₹{PRICE}, one time.
+• LocSeva: completely free for one full month. No advance, no card.
+• After 30 days the access ends on its own — nothing to cancel, no auto-charge.
+• Don't like it before then? Tell us and we remove it the same day.
+
+Send me a photo of your menu board and I'll set the whole thing up myself —
+you won't have to type anything. Then you decide.
+
+And if it's not for you, genuinely no hard feelings. Just tell us honestly what
+you thought; that's useful to us either way. We're just starting out, and we'd
+rather have a few cafes who actually like this than a long list who don't.
+
+— Sushil, Satvic Tech
+```
+
+---
+
+## B. Shorter version — WhatsApp, if A feels long
+
+Send as two messages, back to back.
+
+```
+Hello {CAFE} team 🙏
+
+I'm Sushil from Satvic Tech — we build websites and online ordering for small
+cafes in Delhi.
+
+Here's a live demo of what we make. Open it on your phone:
+{DEMO}
+
+Check the menu page, then press "Order Online" — that's LocSeva, our ordering
+system. We can build yours exactly like this with your menu and prices.
+```
+
+```
+What it would cost you:
+
+• Website — normally ₹10,000+, for you ₹{PRICE} one time
+• LocSeva ordering — free for a full month, no card, no advance
+• After 30 days access ends by itself. Nothing to cancel, no auto-charge.
+• Don't like it earlier? Say so and we remove it same day.
+
+No commission on orders, and your customers stay yours — not Zomato's.
+
+Send me a photo of your menu board and I'll set it all up for you. If it's not
+useful, no hard feelings at all — just tell me honestly 🙂
+```
+
+---
+
+## C. Instagram DM opener — cold outreach at volume
+
+Short enough that they actually read it. Only job is to get a reply.
+
+```
+Hi {CAFE} 👋 Sushil here from Satvic Tech — we set up websites and online
+ordering for small cafes in Delhi. No commission, no app for your customers.
+
+Here's a live demo, open it on your phone 👉 {DEMO}
+Press "Order Online" on it to see the ordering system working.
+
+Send me a photo of your menu and I'll build yours the same way. First month
+of ordering is free. If you like it, keep it — if not, no problem at all 🙂
+```
+
+If they reply, send **A** or **B**.
+
+---
+
+## D. Walk-in, if you go in person
+
+Three sentences, then leave something behind.
+
+```
+"Hi, I'm Sushil — I build websites and ordering pages for cafes around here.
+ This is a demo of what it looks like, the QR is on this card.
+ Press the Order Online button on it, and tell me honestly if it'd be useful
+ for you."
+```
+
+Hand over a printed card with a QR code of `{DEMO}` and your number, then leave.
+Don't stand there and sell — the card does it, and you'll get a reply that
+evening.
+
+---
+
+## E. Follow-up (3–4 days later)
+
+```
+Hi 🙂 Just once more — the demo is still here:
+{DEMO}
+
+No rush at all. If it's not useful, tell me and I'll stop following up.
+If you'd like one for {CAFE}, it's ₹{PRICE} and the first month of ordering
+is free.
+```
+
+No reply after this? Stop and move to the next cafe.
+
+---
+
+## What actually makes these work
+
+1. **Show, don't describe.** Every cafe gets pitched with words. Almost none get
+   handed a working thing they can tap. That gap is your whole advantage.
+2. **Get them to press "Order Online".** A website is a brochure to them.
+   Ordering is a business change. They only feel the difference by tapping it.
+3. **Name something specific.** `{AREA}` and `{DISH}` prove you looked. Generic
+   blasts get ignored, and owners can spot one instantly.
+4. **Put ₹10,000 and ₹{PRICE} in the same sentence.** The contrast persuades,
+   not the adjectives.
+5. **Say all four risk-removers.** Free month · ends by itself · nothing to
+   cancel · no auto-charge. Owners hesitate over what they're committing to,
+   not over the money.
+6. **Offer to do the typing.** "Send a photo of your menu board and I'll set it
+   up" removes the real objection, which is effort, not price.
+7. **Ask for feedback, not a decision.** An opinion is cheap to give, and it
+   turns a pitch into a conversation.
+8. **Being new is an asset.** "We're just starting out and we'd rather have a
+   few cafes who actually like this" beats pretending to be established — and
+   you never have to keep a story straight.
+9. **Tell them to open it on a phone.** That's where it looks best, and where
+   every one of their customers will see it.
+
+---
+
+## Reusing this codebase for the next cafe
+
+The site is data-driven, so a new cafe is a copy plus four files:
+
+| File | What to change |
+|---|---|
+| `lib/site.ts` | Name, address, geo, hours, phones, WhatsApp, Instagram, LocSeva URL, listings |
+| `lib/menu.ts` | Their categories, items, prices, notes, accent colours |
+| `lib/photos.ts` | Register their photos; drop the files in `public/` |
+| `lib/cravings.ts` | Five combos using their item names |
+
+Then `npm run blur` and deploy. The palette lives in `app/globals.css` under
+`@theme` — pull the colours off their signboard and interior so each cafe's site
+looks like its own place instead of a template.
+
+**Keep the WhatsApp handoff pointed at your own number until they pay.** It's
+`site.whatsapp` in `lib/site.ts`. Switch it to theirs on signup.
