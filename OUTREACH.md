@@ -1,128 +1,189 @@
 # Message to send to Chill Cafe
 
-Send the **WhatsApp version** first. It's short on purpose — the link does the
-talking. Everything else here is for when they reply.
+Send message 1. The link does most of the talking.
 
 > **Live link:** https://chill-cafe.vercel.app
+> **Send to:** 9310408902 / 9818134849, or DM @chill_cafe000
 >
-> **Before sending:** check the line marked **[confirm]** in message 2 — only
-> you know what LocSeva costs from month 2.
+> **Check before sending:** the LocSeva login below (`7827160996` / PIN `2000`)
+> stays in their chat forever and works for anyone they forward it to. Make sure
+> it's a demo account, not your live admin.
 
 ---
 
-## 1. WhatsApp / Instagram DM — send this one
+## 1. WhatsApp / Instagram DM — Hinglish
 
 ```
 Namaste 🙏 Chill Cafe team,
 
-Main Sushil, Satvic Tech se. Aapka cafe Nilothi Mode pe dekha tha —
-menu aur reviews dono badhiya hain, so I built you a website. Already ready hai:
+Main Sushil, Satvic Tech se. Aapka cafe Nilothi Mode pe dekha — menu
+aur reviews dono badhiya lage, to maine aapke liye ek website bana di.
+Already ready hai, dekh lijiye:
 
 https://chill-cafe.vercel.app
 
-Ye dekhiye: aapka pura menu (saare 67 items, actual prices), aapke photos,
-timing, Google rating, aur ek "Order Online" button jo direct aapke paas
-order bhej deta hai. Phone pe bhi khol ke dekhiye.
+Isme aapka pura menu hai (saare 67 items, actual prices), aapke photos,
+timing, rating, cafe ka 3D view, aur "Order Online" button jo order
+seedha aapke paas bhejta hai. Phone pe khol ke dekhiye.
 
-Aise website banane ka normal rate ₹10,000+ hota hai.
-Aapke liye ₹500 — bas ek baar, kyunki ye already bani hui hai.
+Aisi website ka normal rate ₹10,000+ hota hai.
+Aapke liye ₹500 — sirf ek baar, kyunki ye already bani hui hai.
 
-Saath mein LocSeva (hamara online ordering system) 30 din free.
-Pasand na aaye to koi baat nahi, kuch dena nahi hai.
+LocSeva (hamara online ordering system) ke baare mein:
 
-Ek baar site dekh lijiye, phir bataiye 🙂
+• Pura 1 mahina bilkul free. Koi charge nahi, advance nahi, card nahi.
+• Khud check kar lijiye — locseva.satvictech.com
+  Login: 7827160996
+  PIN: 2000
+• 30 din baad access apne aap hat jayega. Aapko kuch cancel karne ki
+  zarurat nahi, na koi auto-charge lagega.
+• Beech mein bhi pasand na aaye to bas bata dijiye, hum usi din
+  hata denge.
+
+Aur agar aapko theek na lage to bilkul koi baat nahi — hum bura nahi
+manenge, dusre cafes ke saath kaam kar lenge. Bas ek honest feedback
+de dijiye, wahi kaafi hai hamare liye.
+
+Sach kahun to hum abhi shuruaat kar rahe hain, aur chahte hain ki
+Chill Cafe hamare pehle acche customers mein ho 🙂
+
+— Sushil, Satvic Tech
 ```
 
-### English-only version
+## English version
 
 ```
 Hello Chill Cafe team,
 
-I'm Sushil from Satvic Tech. I visited your cafe page for Nilothi Mode —
+I'm Sushil from Satvic Tech. I came across your cafe at Nilothi Mode —
 good menu, good reviews — so I went ahead and built you a website.
 It's already live:
 
 https://chill-cafe.vercel.app
 
 It has your full menu (all 67 items with real prices), your photos, your
-timings, your Google rating, and an "Order Online" button that sends orders
-straight to you. Please open it on your phone too.
+timings, your rating, a 3D view of your cafe, and an "Order Online"
+button that sends orders straight to you. Please open it on your phone.
 
 A website like this normally costs ₹10,000 or more.
 For you it's ₹500 — one time, because it's already built.
 
-Along with it, LocSeva (our online ordering system) free for 30 days.
-If you don't like it, no problem at all — nothing to pay.
+About LocSeva (our online ordering system):
 
-Have a look and let me know 🙂
-```
+• Completely free for one full month. No charges, no advance, no card.
+• See it for yourself — locseva.satvictech.com
+  Login: 7827160996
+  PIN: 2000
+• After 30 days the access is removed automatically. Nothing for you to
+  cancel, and no auto-charge.
+• If you don't like it before then, just tell us and we'll remove it the
+  same day.
 
----
+And if it isn't for you, genuinely no hard feelings — we'll work with
+other cafes instead. Just give us your honest feedback, that's enough
+for us.
 
-## 2. If they reply — the details
-
-```
-Thank you for replying 🙏 Here's everything, clearly:
-
-WHAT YOU GET FOR ₹500
-• The website you saw, on your own name/domain
-• Your full menu with prices — I'll change anything that's outdated
-• Works on every phone, opens fast even on 4G
-• Set up for Google so people searching "cafe in Nangloi" can find you,
-  with your address, timings and phone showing directly in search
-• A 3D view of your cafe interior
-• I'll swap in real photos of your dishes whenever you send them
-
-WHAT IS LOCSEVA
-LocSeva is our own online ordering system. You get your own ordering page:
-locseva.satvictech.com/r/chill-cafe
-
-• Customer picks items, adds name and number, and submits. No app to download.
-• The order reaches you with the exact items written down — nothing misheard
-  over a noisy phone call during the rush.
-• On the website, customers can add items to a tray and the whole list
-  arrives pre-filled, so it's just a confirm.
-• Unlike Zomato/Swiggy, the customer stays yours and there's no commission
-  cut on every plate.
-
-First 30 days completely free. No advance, no card, nothing.
-After that [confirm — what LocSeva costs from month 2].
-
-WHY I'M ASKING SO LITTLE
-Honestly: I've already built it, and I'd rather have Chill Cafe as a
-reference in Nangloi than charge full price. That's the whole reason.
-
-Whenever you're ready, I need only two things from you:
-1. Confirm the menu and prices are correct
-2. Any name you want for the website address
+To be straight with you: we're just starting out, and we'd like Chill
+Cafe to be one of our first good customers 🙂
 
 — Sushil, Satvic Tech
 ```
 
 ---
 
-## 3. Follow-up (3–4 days later, if no reply)
+## 2. If it feels too long — split it into two
+
+Send this first, wait for the tick, then send the second.
 
 ```
-Hi, just checking once 🙂 The Chill Cafe website is still up here:
+Namaste 🙏 Chill Cafe team,
+
+Main Sushil, Satvic Tech se. Aapke cafe ke liye ek website bana di hai,
+already ready hai:
+
 https://chill-cafe.vercel.app
 
-No rush and no pressure — if it's not useful, tell me and I'll stop
-following up. If you'd like it, it's ₹500 and 30 days of free online
-ordering.
+Pura menu (67 items, actual prices), aapke photos, timing, 3D view aur
+Order Online button — sab isme hai. Phone pe khol ke dekhiye.
+```
+
+```
+Aisi website ka normal rate ₹10,000+ hota hai. Aapke liye ₹500, ek baar.
+
+Saath mein LocSeva (online ordering) pura 1 mahina free — koi charge
+nahi, card nahi. Khud dekh lijiye: locseva.satvictech.com
+Login 7827160996, PIN 2000.
+
+30 din baad access apne aap hat jayega, aapko kuch karne ki zarurat
+nahi. Pasand na aaye to bas bata dijiye.
+
+Theek na lage to koi baat nahi — bas honest feedback de dijiye. Hum
+abhi start kar rahe hain aur chahte hain Chill Cafe hamare pehle acche
+customers mein ho 🙂
+```
+
+---
+
+## 3. If they reply — the details
+
+```
+Thank you for replying 🙏 Sab kuch clear likh raha hoon:
+
+₹500 MEIN KYA MILEGA
+• Wahi website jo aapne dekhi, aapke naam ke domain pe
+• Pura menu prices ke saath — kuch bhi purana ho to main badal dunga
+• Har phone pe chalegi, 4G pe bhi fast khulti hai
+• Google ke liye set — "cafe in Nangloi" search karne pe aapka address,
+  timing aur number seedha search mein dikhega
+• Aapke cafe ka 3D view
+• Aapke real food photos jab bhejenge, main daal dunga
+
+LOCSEVA KYA HAI
+Aapka apna ordering page: locseva.satvictech.com/r/chill-cafe
+
+• Customer items select karta hai, naam aur number daalta hai, submit.
+  Koi app download nahi karni.
+• Order aapke paas exact likha hua aata hai — rush mein phone pe
+  galat sunne ka chance nahi.
+• Website pe customer tray mein items add kar sakta hai, aur puri list
+  pehle se bhari hui aati hai. Bas confirm karna hota hai.
+• Zomato/Swiggy jaisa commission cut nahi, aur customer aapka hi
+  rehta hai.
+
+1 mahina free. 30 din baad access apne aap band. Koi auto-charge nahi.
+
+MUJHE AAPSE SIRF 2 CHEEZEIN CHAHIYE
+1. Menu aur prices confirm kar dijiye ki sahi hain
+2. Website ka address kya rakhna hai
+
+— Sushil, Satvic Tech
+```
+
+---
+
+## 4. Follow-up (3–4 days later, if no reply)
+
+```
+Hi 🙂 Ek baar yaad dila raha hoon — Chill Cafe ki website yahan hai:
+https://chill-cafe.vercel.app
+
+Koi jaldi nahi. Agar kaam ki nahi lagti to bata dijiye, main phir
+message nahi karunga. Pasand aaye to ₹500, aur LocSeva 1 mahina free.
 ```
 
 ---
 
 ## Notes for you
 
-- **Send the link, not a pitch.** The first message should mostly be the URL.
-  They will click it, see their own cafe, and reply. That is the whole plan.
+- **The link is the pitch.** Don't add anything on top of it. They'll click,
+  see their own cafe and their own prices, and reply.
 - **Ask them to open it on a phone.** That's where it looks best and where
   their customers will see it.
-- **Print a QR code** of the live URL and take it with you if you visit. Cafe
-  owners respond well to something physical they can stick near the counter.
-- **The ₹10,000 comparison is doing the work.** Keep those two numbers next to
-  each other in the same message — ₹10,000+ normally, ₹500 for them.
-- **Don't over-explain LocSeva up front.** It's the second message. The first
-  message is only: here is your website, it's ₹500.
+- **Keep ₹10,000 and ₹500 in the same message.** That contrast does the work.
+- **The "no risk" part matters more than the price.** Free month, access ends
+  by itself, nothing to cancel, no auto-charge. Say all four — that's what
+  removes the hesitation.
+- **Asking for honest feedback lowers their guard.** You're not closing them,
+  you're asking for an opinion. Keep that line in.
+- **Print a QR code** of the live URL if you visit in person. Owners respond
+  well to something they can stick near the counter.
