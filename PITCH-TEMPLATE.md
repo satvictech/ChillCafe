@@ -90,18 +90,16 @@ LocSeva ordering is free for the first 30 days. No card, no advance, and it
 doesn't auto-renew — after 30 days it stops on its own. Like it by then? Tell
 us and we'll extend it. Don't like it? Say so and we remove it the same day.
 
-Why cafes take it: no commission on any order, no app for your customers to
-download, the order reaches you written down exactly instead of misheard over
-a noisy phone call, and the customer's number stays with you rather than an
-aggregator's.
+And this is the real point. Every order through Zomato or Swiggy hands them a
+cut of your own plate, and that customer becomes theirs, not yours. On your own
+page the order comes straight to you, written down exactly, the full amount
+stays with you, and the customer's number is yours for the next time. No app
+for anyone to download, no commission to anyone. You stay independent.
 
 The cafes that grow in Delhi aren't always the ones with the best food —
 they're the ones people can find. Your own website, your ordering page, your
 Google listing: that's how a neighbourhood cafe becomes a name people know.
 We'd like to do that for {CAFE}.
-
-Send me a photo of your menu board and I'll set it all up — you won't have to
-type a thing.
 
 — Sushil, Satvic Tech
 ```
@@ -143,14 +141,13 @@ this low because we're new and want the work. That's honestly the only reason.
 • Liked it by then? Tell me and I'll extend it for you.
 • Don't like it earlier? Say so and we remove it same day.
 
-No commission on orders either, and your customers stay yours, not Zomato's.
+Every order on Zomato or Swiggy gives them a cut of your own plate, and the
+customer becomes theirs. On your own page the full amount stays with you and
+the customer's number is yours for next time. You stay independent.
 
 Want to see the owner's side? Log in here and place a test order on the demo
 to watch it come through:
 locseva.satvictech.com — login 9999999999, PIN 2000
-
-Send me a photo of your menu board and I'll set it all up for you. If it's not
-useful, no hard feelings at all — just tell me honestly 🙂
 ```
 
 ---
