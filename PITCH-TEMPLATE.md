@@ -80,42 +80,22 @@ Place an order on the demo site, then open that login and you'll see it arrive.
 We can build yours exactly like this: your menu, your prices, your photos,
 your name, your timings.
 
-WHAT LOCSEVA DOES FOR YOU
-• Your own ordering page. Share the link on Instagram, or stick a QR code
-  near the counter.
-• Customers pick items, add their number, submit. No app for them to
-  download, no software for you to learn.
-• The order reaches you written down exactly — nothing misheard over a noisy
-  phone call during the evening rush.
-• No commission on any order, and the customer's number stays with you, so
-  repeat orders are yours and not an aggregator's.
+In Delhi a website like that costs ₹10,000 to ₹25,000 — any agency will quote
+you the same. Ours start at ₹400, and a full one like the demo is ₹1,000, one
+time. Your menu typed in, Google listing and your food photos are all included,
+I do it myself. Nothing is cut out at that price — it's this low because we're
+new and we want the work.
 
-WHAT IT COSTS — AND WHY IT'S THIS LOW
-Look at the demo once more: the 3D view of the room, the search on the menu,
-how fast it opens on your phone, ordering built straight into it. In Delhi that
-is a ₹10,000 to ₹25,000 website. Any agency will quote you that.
+LocSeva ordering is free for the first 30 days. No card, no advance, and it
+doesn't auto-renew — after 30 days it stops on its own. Like it by then? Tell
+us and we'll extend it. Don't like it? Say so and we remove it the same day.
 
-Our websites start at ₹400. A full one like that demo — every item on your
-menu, the 3D view of your room, ordering built in — is ₹1,000, one time.
+Why cafes take it: no commission on any order, no app for your customers to
+download, the order reaches you written down exactly instead of misheard over
+a noisy phone call, and the customer's number stays with you rather than an
+aggregator's.
 
-Nothing is cut out at that price. What you'd get is exactly what you just
-looked at. It's this low because we're new and we want the work — that's the
-whole reason.
-
-• Website for your cafe — from ₹400, ₹1,000 for the full build.
-• Your full menu typed in and set up — included, I do it myself.
-• Set up for Google, so people searching "cafe in {AREA}" find your address,
-  timings and number — included.
-• Your food photos added whenever you send them — included.
-• LocSeva online ordering — free for the first 30 days.
-
-On the free month, so there's nothing to worry about:
-• No advance, no card, nothing to sign.
-• It does not auto-renew. After 30 days it simply stops on its own.
-• If you've liked it by then, just tell us and we'll extend it for you.
-• If you don't like it before 30 days, say so and we remove it the same day.
-
-Send me a photo of your menu board and I'll set the whole thing up myself —
+Send me a photo of your menu board and I'll set the whole thing up for you —
 you won't have to type anything. Then you decide.
 
 And if it's not for you, genuinely no hard feelings. Just tell us honestly what
