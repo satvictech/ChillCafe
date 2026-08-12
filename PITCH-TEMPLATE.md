@@ -10,6 +10,18 @@ Reusable messages for pitching cafes. Replace anything in `{BRACES}`.
 {DEMO}    https://chill-cafe.vercel.app  ← always this, your live demo
 ```
 
+**LocSeva test login** — for owners who want to see the dashboard side:
+
+```
+locseva.satvictech.com
+Login: 9999999999
+PIN:   2000
+```
+
+This is a shared demo account, so treat it as public. Anything a prospect types
+into it, the next prospect can see — keep real cafe data out of it, and make
+sure it can't reach anything live.
+
 ## Two rules for using the demo
 
 **1. It's a demo, not a client.** Say *"this is a demo we've built"* and *"we can
@@ -49,6 +61,15 @@ Please open it on your phone and try two things:
 
 1. The menu page — the full menu with real prices, searchable
 2. The "Order Online" button — that's LocSeva, our ordering system, working live
+
+That's the customer's side. If you'd like to see your side of it — where the
+orders actually land — you can log into a test account right now:
+
+    locseva.satvictech.com
+    Login: 9999999999
+    PIN: 2000
+
+Place an order on the demo site, then open that login and you'll see it arrive.
 
 We can build yours exactly like this: your menu, your prices, your photos,
 your name, your timings.
@@ -108,6 +129,10 @@ What it would cost you:
 
 No commission on orders, and your customers stay yours — not Zomato's.
 
+Want to see the owner's side? Log in here and place a test order on the demo
+to watch it come through:
+locseva.satvictech.com — login 9999999999, PIN 2000
+
 Send me a photo of your menu board and I'll set it all up for you. If it's not
 useful, no hard feelings at all — just tell me honestly 🙂
 ```
@@ -124,6 +149,9 @@ ordering for small cafes in Delhi. No commission, no app for your customers.
 
 Here's a live demo, open it on your phone 👉 {DEMO}
 Press "Order Online" on it to see the ordering system working.
+
+Want to see where orders land? Log in at locseva.satvictech.com with
+9999999999 / PIN 2000 and place a test order on the demo.
 
 Send me a photo of your menu and I'll build yours the same way. First month
 of ordering is free. If you like it, keep it — if not, no problem at all 🙂
@@ -144,7 +172,8 @@ Three sentences, then leave something behind.
  for you."
 ```
 
-Hand over a printed card with a QR code of `{DEMO}` and your number, then leave.
+Hand over a printed card with a QR code of `{DEMO}`, your number, and the test
+login (`9999999999` / `2000`) on the back, then leave.
 Don't stand there and sell — the card does it, and you'll get a reply that
 evening.
 
@@ -171,21 +200,24 @@ No reply after this? Stop and move to the next cafe.
    handed a working thing they can tap. That gap is your whole advantage.
 2. **Get them to press "Order Online".** A website is a brochure to them.
    Ordering is a business change. They only feel the difference by tapping it.
-3. **Name something specific.** `{AREA}` and `{DISH}` prove you looked. Generic
+3. **Show both sides.** The demo site is the customer's view; the test login is
+   theirs. An owner who places an order on the demo and then watches it appear
+   in the dashboard has understood your entire product in about forty seconds.
+4. **Name something specific.** `{AREA}` and `{DISH}` prove you looked. Generic
    blasts get ignored, and owners can spot one instantly.
-4. **Put ₹10,000 and ₹{PRICE} in the same sentence.** The contrast persuades,
+5. **Put ₹10,000 and ₹{PRICE} in the same sentence.** The contrast persuades,
    not the adjectives.
-5. **Say all four risk-removers.** Free month · ends by itself · nothing to
+6. **Say all four risk-removers.** Free month · ends by itself · nothing to
    cancel · no auto-charge. Owners hesitate over what they're committing to,
    not over the money.
-6. **Offer to do the typing.** "Send a photo of your menu board and I'll set it
+7. **Offer to do the typing.** "Send a photo of your menu board and I'll set it
    up" removes the real objection, which is effort, not price.
-7. **Ask for feedback, not a decision.** An opinion is cheap to give, and it
+8. **Ask for feedback, not a decision.** An opinion is cheap to give, and it
    turns a pitch into a conversation.
-8. **Being new is an asset.** "We're just starting out and we'd rather have a
+9. **Being new is an asset.** "We're just starting out and we'd rather have a
    few cafes who actually like this" beats pretending to be established — and
    you never have to keep a story straight.
-9. **Tell them to open it on a phone.** That's where it looks best, and where
+10. **Tell them to open it on a phone.** That's where it looks best, and where
    every one of their customers will see it.
 
 ---
