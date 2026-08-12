@@ -3,9 +3,10 @@
 Send the **WhatsApp version** first. It's short on purpose — the link does the
 talking. Everything else here is for when they reply.
 
-> **Fill this in before sending:** replace `https://chill-cafe.vercel.app` with the deployed link,
-> and check the line marked **[confirm]** in the long version — only you know
-> what LocSeva costs after the free month.
+> **Live link:** https://chill-cafe.vercel.app
+>
+> **Before sending:** check the line marked **[confirm]** in message 2 — only
+> you know what LocSeva costs from month 2.
 
 ---
 
