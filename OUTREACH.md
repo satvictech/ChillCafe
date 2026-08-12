@@ -37,8 +37,8 @@ LocSeva (hamara online ordering system) ke baare mein:
   PIN: 2000
 • 30 din baad access apne aap hat jayega. Aapko kuch cancel karne ki
   zarurat nahi, na koi auto-charge lagega.
-• Beech mein bhi pasand na aaye to bas bata dijiye, hum usi din
-  hata denge.
+• Pasand aa gaya to bas bata dijiye — hum aage extend kar denge.
+• Beech mein pasand na aaye to bata dijiye, hum usi din hata denge.
 
 Aur agar aapko theek na lage to bilkul koi baat nahi — hum bura nahi
 manenge, dusre cafes ke saath kaam kar lenge. Bas ek honest feedback
@@ -76,8 +76,8 @@ About LocSeva (our online ordering system):
   PIN: 2000
 • After 30 days the access is removed automatically. Nothing for you to
   cancel, and no auto-charge.
-• If you don't like it before then, just tell us and we'll remove it the
-  same day.
+• If you do like it, just say so and we'll extend it for you.
+• If you don't like it before then, tell us and we'll remove it the same day.
 
 And if it isn't for you, genuinely no hard feelings — we'll work with
 other cafes instead. Just give us your honest feedback, that's enough
@@ -150,7 +150,8 @@ Aapka apna ordering page: locseva.satvictech.com/r/chill-cafe
 • Zomato/Swiggy jaisa commission cut nahi, aur customer aapka hi
   rehta hai.
 
-1 mahina free. 30 din baad access apne aap band. Koi auto-charge nahi.
+1 mahina free. 30 din baad access apne aap band, koi auto-charge nahi.
+Pasand aaya to bata dijiye, hum extend kar denge.
 
 MUJHE AAPSE SIRF 2 CHEEZEIN CHAHIYE
 1. Menu aur prices confirm kar dijiye ki sahi hain
@@ -168,7 +169,8 @@ Hi 🙂 Ek baar yaad dila raha hoon — Chill Cafe ki website yahan hai:
 https://chill-cafe.vercel.app
 
 Koi jaldi nahi. Agar kaam ki nahi lagti to bata dijiye, main phir
-message nahi karunga. Pasand aaye to ₹500, aur LocSeva 1 mahina free.
+message nahi karunga. Pasand aaye to ₹500, aur LocSeva 1 mahina free —
+baad mein extend bhi kar sakte hain.
 ```
 
 ---
@@ -181,8 +183,10 @@ message nahi karunga. Pasand aaye to ₹500, aur LocSeva 1 mahina free.
   their customers will see it.
 - **Keep ₹10,000 and ₹500 in the same message.** That contrast does the work.
 - **The "no risk" part matters more than the price.** Free month, access ends
-  by itself, nothing to cancel, no auto-charge. Say all four — that's what
-  removes the hesitation.
+  by itself, nothing to cancel, no auto-charge, extendable if they like it.
+  Say all five — that's what removes the hesitation.
+- **"We'll extend it if you like it" is the close.** It's the only forward-
+  looking line in the message and it costs them nothing to say yes to.
 - **Asking for honest feedback lowers their guard.** You're not closing them,
   you're asking for an opinion. Keep that line in.
 - **Print a QR code** of the live URL if you visit in person. Owners respond
