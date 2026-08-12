@@ -119,7 +119,11 @@ same list as text.
 
 ## Deploying
 
-Set `NEXT_PUBLIC_SITE_URL` to the real domain. It feeds `metadataBase`, the
+Live at **https://chill-cafe.vercel.app** (Vercel project `chillcafe`, deploys on
+push to `main`). `NEXT_PUBLIC_SITE_URL` is already set for production, preview
+and development.
+
+Set `NEXT_PUBLIC_SITE_URL` to the real domain when one is attached. It feeds `metadataBase`, the
 canonicals, `sitemap.xml`, `robots.txt` and the JSON-LD. Without it, those fall
 back to `https://chillcafe.satvictech.com`.
 

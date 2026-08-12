@@ -3,7 +3,7 @@
 Send the **WhatsApp version** first. It's short on purpose — the link does the
 talking. Everything else here is for when they reply.
 
-> **Fill this in before sending:** replace `<LIVE URL>` with the deployed link,
+> **Fill this in before sending:** replace `https://chill-cafe.vercel.app` with the deployed link,
 > and check the line marked **[confirm]** in the long version — only you know
 > what LocSeva costs after the free month.
 
@@ -17,7 +17,7 @@ Namaste 🙏 Chill Cafe team,
 Main Sushil, Satvic Tech se. Aapka cafe Nilothi Mode pe dekha tha —
 menu aur reviews dono badhiya hain, so I built you a website. Already ready hai:
 
-<LIVE URL>
+https://chill-cafe.vercel.app
 
 Ye dekhiye: aapka pura menu (saare 67 items, actual prices), aapke photos,
 timing, Google rating, aur ek "Order Online" button jo direct aapke paas
@@ -41,7 +41,7 @@ I'm Sushil from Satvic Tech. I visited your cafe page for Nilothi Mode —
 good menu, good reviews — so I went ahead and built you a website.
 It's already live:
 
-<LIVE URL>
+https://chill-cafe.vercel.app
 
 It has your full menu (all 67 items with real prices), your photos, your
 timings, your Google rating, and an "Order Online" button that sends orders
@@ -104,7 +104,7 @@ Whenever you're ready, I need only two things from you:
 
 ```
 Hi, just checking once 🙂 The Chill Cafe website is still up here:
-<LIVE URL>
+https://chill-cafe.vercel.app
 
 No rush and no pressure — if it's not useful, tell me and I'll stop
 following up. If you'd like it, it's ₹500 and 30 days of free online
