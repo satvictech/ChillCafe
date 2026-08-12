@@ -26,9 +26,8 @@ Isme aapka pura menu hai (saare 67 items, actual prices), aapke photos,
 timing, rating, cafe ka 3D view, aur "Order Online" button jo order
 seedha aapke paas bhejta hai. Phone pe khol ke dekhiye.
 
-Ek baar dhyan se dekhiye — cafe ka 3D view, menu pe search, phone pe kitni
-fast khulti hai, ordering bhi isi mein. Delhi mein aisi website ka rate
-₹10,000 se ₹25,000 tak hota hai. Koi bhi agency itna hi bolegi.
+Delhi mein aisi website ka rate ₹10,000 se ₹25,000 tak hota hai. Koi bhi
+agency itna hi bolegi.
 
 Hum ₹500 maang rahe hain.
 
@@ -71,9 +70,8 @@ It has your full menu (all 67 items with real prices), your photos, your
 timings, your rating, a 3D view of your cafe, and an "Order Online"
 button that sends orders straight to you. Please open it on your phone.
 
-Look at it once more — the 3D view of your room, the search on the menu, how
-fast it opens, ordering built right in. In Delhi that's a ₹10,000 to ₹25,000
-website. Any agency will quote you that.
+In Delhi a website like that costs ₹10,000 to ₹25,000. Any agency will quote
+you the same.
 
 We're asking ₹500.
 
