@@ -5,7 +5,6 @@ Reusable messages for pitching cafes. Replace anything in `{BRACES}`.
 ```
 {CAFE}    cafe name you're pitching
 {AREA}    their locality or landmark, e.g. Mahavir Enclave, Dwarka
-{PRICE}   what you're charging them for the site
 {DISH}    one real thing off their menu or reviews
 {DEMO}    https://chill-cafe.vercel.app  ← always this, your live demo
 ```
@@ -35,10 +34,10 @@ understand online ordering until they've tapped through it once. Every message
 below tells them to do exactly two things: look at the menu, then press "Order
 Online". That second tap is what sells LocSeva.
 
-**3. Say the price loudly, then explain it.** Don't be shy about ₹{PRICE} — the
+**3. Say the price loudly, then explain it.** Don't be shy about it — the
 gap between the quality and the price is your strongest card, so name both in
 the same breath. But always answer the question it creates. A cafe owner seeing
-a ₹10,000 website for ₹{PRICE} thinks *"what's missing?"*, and if you don't
+a ₹10,000 website for ₹1,000 thinks *"what's missing?"*, and if you don't
 answer that, they assume the worst. The answer is: nothing is missing, we're
 new and want the work. Say exactly that.
 
@@ -96,14 +95,14 @@ Look at the demo once more: the 3D view of the room, the search on the menu,
 how fast it opens on your phone, ordering built straight into it. In Delhi that
 is a ₹10,000 to ₹25,000 website. Any agency will quote you that.
 
-We're asking ₹{PRICE}.
+Our websites start at ₹400. A full one like that demo — every item on your
+menu, the 3D view of your room, ordering built in — is ₹1,000, one time.
 
-Nothing is cut out — what you'd get is exactly what you just looked at. The
-price is low because we're new and we want the work. That's the whole reason.
-We'd rather have a few cafes around Delhi who genuinely like what we made than
-charge full rate to nobody.
+Nothing is cut out at that price. What you'd get is exactly what you just
+looked at. It's this low because we're new and we want the work — that's the
+whole reason.
 
-• Website for your cafe — ₹{PRICE}, one time.
+• Website for your cafe — from ₹400, ₹1,000 for the full build.
 • Your full menu typed in and set up — included, I do it myself.
 • Set up for Google, so people searching "cafe in {AREA}" find your address,
   timings and number — included.
@@ -149,12 +148,14 @@ system. We can build yours exactly like this with your menu and prices.
 What it would cost you:
 
 That demo — 3D view, searchable menu, ordering built in — is a ₹10,000 to
-₹25,000 website in Delhi. We're asking ₹{PRICE}, one time.
+₹25,000 website in Delhi.
 
-Nothing is cut out, it's the same thing you just opened. It's this low because
-we're new and want the work. That's honestly the only reason.
+Ours start at ₹400, and a full one like the demo is ₹1,000, one time.
 
-• Website — ₹{PRICE} one time
+Nothing is cut out at that price — it's the same thing you just opened. It's
+this low because we're new and want the work. That's honestly the only reason.
+
+• Website — from ₹400, ₹1,000 for the full build
 • Menu setup, Google listing and your photos — included, I do all of it
 • LocSeva ordering — free for the first 30 days, no card, no advance
 • It doesn't auto-renew. After 30 days it stops by itself — nothing to cancel.
@@ -187,8 +188,8 @@ Press "Order Online" on it to see the ordering system working.
 Want to see where orders land? Log in at locseva.satvictech.com with
 9999999999 / PIN 2000 and place a test order on the demo.
 
-That's a ₹10,000+ website anywhere else. We charge ₹{PRICE} because we're new
-and want the work — nothing is cut out of it.
+That's a ₹10,000+ website anywhere else. Ours start at ₹400, and a full one
+like the demo is ₹1,000 — we're new and want the work, nothing is cut out.
 
 Send me a photo of your menu and I'll build yours the same way, menu setup
 included. Ordering is free for the first 30 days, stops by itself after that,
@@ -224,8 +225,8 @@ Hi 🙂 Just once more — the demo is still here:
 {DEMO}
 
 No rush at all. If it's not useful, tell me and I'll stop following up.
-If you'd like one for {CAFE}, it's ₹{PRICE} with the menu setup included, and
-the first 30 days of ordering are free — extendable if you like it.
+If you'd like one for {CAFE}, they start at ₹400 with the menu setup included,
+and the first 30 days of ordering are free — extendable if you like it.
 ```
 
 No reply after this? Stop and move to the next cafe.
@@ -243,7 +244,8 @@ No reply after this? Stop and move to the next cafe.
    in the dashboard has understood your entire product in about forty seconds.
 4. **Name something specific.** `{AREA}` and `{DISH}` prove you looked. Generic
    blasts get ignored, and owners can spot one instantly.
-5. **Put ₹10,000 and ₹{PRICE} in the same sentence, then explain the gap.**
+5. **Put ₹10,000–₹25,000 and your price in the same sentence, then explain the
+   gap.**
    The contrast is what persuades — but an unexplained bargain reads as a
    catch. "Nothing is cut out, we're new and want the work" is the line that
    turns suspicion into goodwill. Never leave the low price unexplained.
@@ -253,7 +255,7 @@ No reply after this? Stop and move to the next cafe.
    if you like it" keeps the door open without any pressure.
 7. **Offer to do the typing.** "Send a photo of your menu board and I'll set it
    up" removes the real objection, which is effort, not price. List the menu
-   setup, Google listing and photos as *included* — it makes ₹{PRICE} read as
+   setup, Google listing and photos as *included* — it makes the price read as
    a bargain rather than a suspiciously low number.
 8. **Ask for feedback, not a decision.** An opinion is cheap to give, and it
    turns a pitch into a conversation.

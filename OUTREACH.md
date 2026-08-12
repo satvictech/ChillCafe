@@ -29,7 +29,7 @@ seedha aapke paas bhejta hai. Phone pe khol ke dekhiye.
 Delhi mein aisi website ka rate ₹10,000 se ₹25,000 tak hota hai. Koi bhi
 agency itna hi bolegi.
 
-Hum ₹500 maang rahe hain.
+Hum ₹1,000 maang rahe hain.
 
 Isme kuch kam nahi kiya gaya — bilkul wahi hai jo aapne abhi dekha. Rate itna
 kam hai kyunki hum naye hain aur kaam chahiye. Bas yahi wajah hai.
@@ -73,7 +73,7 @@ button that sends orders straight to you. Please open it on your phone.
 In Delhi a website like that costs ₹10,000 to ₹25,000. Any agency will quote
 you the same.
 
-We're asking ₹500.
+We're asking ₹1,000.
 
 Nothing has been cut out — it's exactly what you just opened. The price is this
 low because we're new and we want the work. That's the only reason.
@@ -118,7 +118,7 @@ Order Online button — sab isme hai. Phone pe khol ke dekhiye.
 ```
 
 ```
-Delhi mein aisi website ₹10,000–₹25,000 ki hoti hai. Hum ₹500 maang rahe hain,
+Delhi mein aisi website ₹10,000–₹25,000 ki hoti hai. Hum ₹1,000 maang rahe hain,
 ek baar. Kuch kam nahi kiya gaya — hum naye hain aur kaam chahiye, bas itni
 si baat hai.
 
@@ -141,7 +141,7 @@ customers mein ho 🙂
 ```
 Thank you for replying 🙏 Sab kuch clear likh raha hoon:
 
-₹500 MEIN KYA MILEGA
+₹1,000 MEIN KYA MILEGA
 • Wahi website jo aapne dekhi, aapke naam ke domain pe
 • Pura menu prices ke saath — kuch bhi purana ho to main badal dunga
 • Har phone pe chalegi, 4G pe bhi fast khulti hai
@@ -181,7 +181,7 @@ Hi 🙂 Ek baar yaad dila raha hoon — Chill Cafe ki website yahan hai:
 https://chill-cafe.vercel.app
 
 Koi jaldi nahi. Agar kaam ki nahi lagti to bata dijiye, main phir
-message nahi karunga. Pasand aaye to ₹500, aur LocSeva 1 mahina free —
+message nahi karunga. Pasand aaye to ₹1,000, aur LocSeva 1 mahina free —
 baad mein extend bhi kar sakte hain.
 ```
 
@@ -193,7 +193,7 @@ baad mein extend bhi kar sakte hain.
   see their own cafe and their own prices, and reply.
 - **Ask them to open it on a phone.** That's where it looks best and where
   their customers will see it.
-- **Keep ₹10,000 and ₹500 in the same message, and explain the gap.** The
+- **Keep ₹10,000 and ₹1,000 in the same message, and explain the gap.** The
   contrast does the persuading, but an unexplained bargain makes an owner
   wonder what's missing. "Kuch kam nahi kiya gaya, hum naye hain aur kaam
   chahiye" is the line that turns that suspicion into goodwill.
