@@ -95,12 +95,13 @@ download, the order reaches you written down exactly instead of misheard over
 a noisy phone call, and the customer's number stays with you rather than an
 aggregator's.
 
-Send me a photo of your menu board and I'll set the whole thing up for you —
-you won't have to type anything. Then you decide.
+The cafes that grow in Delhi aren't always the ones with the best food —
+they're the ones people can find. Your own website, your ordering page, your
+Google listing: that's how a neighbourhood cafe becomes a name people know.
+We'd like to do that for {CAFE}.
 
-And if it's not for you, genuinely no hard feelings. Just tell us honestly what
-you thought; that's useful to us either way. We're just starting out, and we'd
-rather have a few cafes who actually like this than a long list who don't.
+Send me a photo of your menu board and I'll set it all up — you won't have to
+type a thing.
 
 — Sushil, Satvic Tech
 ```
