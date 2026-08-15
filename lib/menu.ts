@@ -42,13 +42,13 @@ export const menu: MenuCategory[] = [
           { name: "Sweet Corn Pizza", price: 150, sweet: true },
           { name: "Onion Capsicum Pizza", price: 150 },
           { name: "Cheese Burst Pizza", price: 170, signature: true, note: "Cheese inside the crust and on top. Bring napkins." },
-          { name: "Veg. Loaded Pizza", price: 180, note: "Every veg on the board, on one base." },
+          { name: "Veg Loaded Pizza", price: 180, note: "Every veg on the board, on one base." },
           { name: "Farm House Pizza", price: 180 },
           { name: "Tandoori Pizza", price: 190, spicy: true, note: "Smoky tandoori masala on a pizza base." },
           { name: "Makhni Pizza", price: 190, note: "Buttery makhni gravy instead of red sauce." },
           { name: "Peri Peri Pizza", price: 190, spicy: true },
           { name: "Momos Pizza", price: 200, note: "Momos. On a pizza. Exactly as good as it sounds." },
-          { name: "Spl. Chill Cafe Pizza", price: 250, signature: true, note: "The house flagship — loaded, layered, finished with extra cheese." },
+          { name: "Chill Cafe Special Pizza", price: 250, signature: true, note: "The house flagship — loaded, layered, finished with extra cheese." },
         ],
       },
     ],
@@ -62,13 +62,13 @@ export const menu: MenuCategory[] = [
     groups: [
       {
         items: [
-          { name: "Veg. Fried Rice", price: 140 },
-          { name: "Veg. Butter Fried Rice", price: 150 },
+          { name: "Veg Fried Rice", price: 140 },
+          { name: "Veg Butter Fried Rice", price: 150 },
           { name: "Paneer Fried Rice", price: 170, signature: true, note: "Soft paneer cubes, wok-charred edges." },
           { name: "Chilli Garlic Fried Rice", price: 170, spicy: true },
           { name: "Singapuri Fried Rice", price: 180, spicy: true },
           { name: "Veg Hakka Fried Rice", price: 200 },
-          { name: "Spl. Mushroom Cheese Fried Rice", price: 220, signature: true, note: "Mushroom and melted cheese folded through. House favourite." },
+          { name: "Mushroom Cheese Fried Rice", price: 220, signature: true, note: "Mushroom and melted cheese folded through. House favourite." },
         ],
       },
     ],
@@ -126,10 +126,10 @@ export const menu: MenuCategory[] = [
           { name: "Hot Coffee", price: 70 },
           { name: "Black Coffee", price: 70 },
           { name: "Hazelnut Hot Coffee", price: 80 },
-          { name: "Hot Mokachino Coffee", price: 80 },
+          { name: "Hot Mochaccino Coffee", price: 80 },
           { name: "Kullad Masala Tea", price: 80, signature: true, note: "Served in clay. Tastes like winter evenings." },
           { name: "Kullad Ginger Tea", price: 80 },
-          { name: "Kullad Ilaichi Tea", price: 80 },
+          { name: "Kullad Elaichi Tea", price: 80 },
           { name: "Hot Chocolate", price: 120, sweet: true },
         ],
       },
@@ -146,7 +146,7 @@ export const menu: MenuCategory[] = [
         items: [
           { name: "Manchow Soup", price: 120, spicy: true, signature: true, note: "Peppery, loaded, crunchy noodles on top." },
           { name: "Hot & Sour Soup", price: 120, spicy: true },
-          { name: "Veg. Soup", price: 120 },
+          { name: "Veg Soup", price: 120 },
           { name: "Sweet Corn Soup", price: 140, sweet: true },
         ],
       },
@@ -224,7 +224,7 @@ export const menu: MenuCategory[] = [
     accent: "#5B8DEF",
     groups: [
       {
-        items: [{ name: "Cold Drink (250 ml)", price: 20 }],
+        items: [{ name: "Cold Drink 250ml", price: 20 }],
       },
     ],
   },
@@ -246,9 +246,9 @@ export const priceRange = {
 };
 
 export const heroPicks = [
-  "Spl. Chill Cafe Pizza",
+  "Chill Cafe Special Pizza",
   "Cheese Burst Pizza",
-  "Spl. Mushroom Cheese Fried Rice",
+  "Mushroom Cheese Fried Rice",
   "Brownie Shake",
   "Manchow Soup",
   "Virgin Mojito",

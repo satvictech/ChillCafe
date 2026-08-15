@@ -96,14 +96,19 @@ image is cropped into a tall or wide slot.
 
 `lib/tray.ts` is a small `useSyncExternalStore` store, persisted to
 localStorage. Add controls appear on every menu row and dish card. The tray
-hands off to LocSeva with the order pre-filled:
+hands off to LocSeva with the list on the query string:
 
 ```
 https://locseva.satvictech.com/r/chill-cafe?items=Cheese%20Burst%20Pizza%20x2%2C%20Oreo%20Shake%20x4
 ```
 
-Built by `orderUrl()` in `lib/site.ts`. There's also a WhatsApp handoff with the
-same list as text.
+Built by `orderUrl()` in `lib/site.ts`.
+
+**Verified Aug 2026: LocSeva does not yet read `items` into a cart.** The param
+only switches the page from the dine-in table booking step to the takeaway
+ordering step — the customer still adds each dish by hand. Until LocSeva
+implements it, the WhatsApp handoff is the only route that actually carries the
+order across, and it does so as plain text.
 
 ## Performance notes
 

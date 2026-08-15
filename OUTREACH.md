@@ -165,8 +165,8 @@ Aapka apna ordering page: locseva.satvictech.com/r/chill-cafe
   Koi app download nahi karni.
 • Order aapke paas exact likha hua aata hai — rush mein phone pe
   galat sunne ka chance nahi.
-• Website pe customer tray mein items add kar sakta hai, aur puri list
-  pehle se bhari hui aati hai. Bas confirm karna hota hai.
+• Website pe customer apni list tray mein bana leta hai, aur wahi list
+  WhatsApp pe poori likhi hui aa jaati hai.
 • Zomato/Swiggy jaisa commission cut nahi, aur customer aapka hi
   rehta hai.
 

@@ -15,8 +15,8 @@ export const cravings: Craving[] = [
     line: "The full sit-down. Pizza, rice and something cold to wash it down.",
     icon: "hungry",
     picks: [
-      { name: "Spl. Chill Cafe Pizza", qty: 1 },
-      { name: "Spl. Mushroom Cheese Fried Rice", qty: 1 },
+      { name: "Chill Cafe Special Pizza", qty: 1 },
+      { name: "Mushroom Cheese Fried Rice", qty: 1 },
       { name: "Cold Coffee", qty: 1 },
     ],
   },

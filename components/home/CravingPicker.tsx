@@ -244,7 +244,7 @@ export function CravingPicker() {
                 Send this on WhatsApp
               </a>
               <p className="pt-1 text-center text-[0.6875rem] leading-relaxed text-faint">
-                Both open with this exact list already filled in.
+                WhatsApp opens with this exact list already typed out.
               </p>
             </div>
           </div>
