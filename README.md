@@ -108,18 +108,15 @@ Built by `orderUrl()` in `lib/site.ts`.
 
 | Param | Effect |
 |---|---|
-| none | lands on **Reserve your table** (dine-in, step 1 of 2) |
+| none | lands on **Reserve your table** — the default tab |
 | `?items=…` | switches to the **takeaway** step, but does **not** fill a cart |
-| `?mode=takeaway` / `?mode=dinein` | ignored — accepted without error |
 
 So `items` currently only picks a tab; the customer still adds each dish by
 hand, and the WhatsApp handoff is the only route that actually carries the order
 across (as plain text).
 
-`mode` is sent on every link so ordering and booking stop sharing one landing
-step the moment LocSeva reads it. Order CTAs send `mode=takeaway`, booking CTAs
-send `mode=dinein`. Rename it in `lib/site.ts` if LocSeva settles on something
-else.
+Order and booking CTAs both point at the plain URL. Booking is the tab it opens
+on, so the "Book a table" buttons need nothing extra.
 
 ## Performance notes
 
