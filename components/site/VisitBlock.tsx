@@ -1,4 +1,4 @@
-import { MapPin, Clock, Phone, Navigation, Bus } from "lucide-react";
+import { MapPin, Clock, Phone, Navigation, Bus, CalendarCheck } from "lucide-react";
 import { site, fullAddress, mapsDirections } from "@/lib/site";
 import { Section, SectionHead } from "@/components/ui/Section";
 import { Reveal } from "@/components/ui/Reveal";
@@ -98,6 +98,15 @@ export function VisitBlock({
                 <FireButton href={mapsDirections} external icon={<Navigation className="size-4" strokeWidth={2.4} />}>
                   Get directions
                 </FireButton>
+                <a
+                  href={site.booking.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center gap-2.5 rounded-full border border-amber/35 bg-amber/[0.06] py-3.5 text-sm font-semibold text-amber transition-colors hover:bg-amber/[0.12]"
+                >
+                  <CalendarCheck className="size-4" strokeWidth={2.2} />
+                  Book a table
+                </a>
                 <a
                   href={site.instagram.url}
                   target="_blank"

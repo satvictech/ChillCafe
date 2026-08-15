@@ -1,4 +1,4 @@
-import { Smartphone, HandPlatter, ChefHat } from "lucide-react";
+import { Smartphone, HandPlatter, ChefHat, CalendarCheck } from "lucide-react";
 import { site } from "@/lib/site";
 import { Section } from "@/components/ui/Section";
 import { Reveal, SplitLines } from "@/components/ui/Reveal";
@@ -65,6 +65,13 @@ export function OrderFlow() {
                 <FireButton href={site.order.url} external>
                   Start an order
                 </FireButton>
+                <GhostButton
+                  href={site.booking.url}
+                  external
+                  icon={<CalendarCheck className="size-4" strokeWidth={2.2} />}
+                >
+                  Book a table
+                </GhostButton>
                 <GhostButton href="/menu" arrow>
                   Look at the menu first
                 </GhostButton>

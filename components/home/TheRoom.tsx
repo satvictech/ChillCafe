@@ -1,10 +1,10 @@
-import { PartyPopper, Armchair, Wind } from "lucide-react";
+import { PartyPopper, Armchair, Wind, CalendarCheck } from "lucide-react";
 import { roomPhotos } from "@/lib/photos";
 import { site } from "@/lib/site";
 import { DriftPhoto } from "@/components/ui/PhotoFrame";
 import { Section, SectionHead } from "@/components/ui/Section";
 import { Reveal } from "@/components/ui/Reveal";
-import { GhostButton } from "@/components/ui/Button";
+import { FireButton, GhostButton } from "@/components/ui/Button";
 
 const features = [
   { icon: Armchair, label: "Booth seating", detail: "Corner booth under the brass clock" },
@@ -52,6 +52,15 @@ export function TheRoom() {
                 kitchen ready.
               </p>
               <div className="mt-5 flex flex-wrap gap-3">
+                <FireButton
+                  href={site.booking.url}
+                  external
+                  arrow={false}
+                  icon={<CalendarCheck className="size-4" strokeWidth={2.2} />}
+                  className="px-5 py-3 text-sm"
+                >
+                  Book a table
+                </FireButton>
                 <GhostButton href={`tel:${site.phones[0].tel}`} external className="px-5 py-3 text-sm">
                   Call {site.phones[0].display}
                 </GhostButton>

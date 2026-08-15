@@ -65,6 +65,16 @@ export function Footer() {
                   Order Online ↗
                 </a>
               </li>
+              <li>
+                <a
+                  href={site.booking.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm font-semibold text-amber transition-colors hover:text-flame"
+                >
+                  Book a Table ↗
+                </a>
+              </li>
             </ul>
           </nav>
 

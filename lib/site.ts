@@ -69,10 +69,19 @@ export const site = {
     },
   ],
 
+  // LocSeva reads `items` (switches to takeaway). `mode` is ignored for now but
+  // carries the intent so ordering and booking stop sharing one landing step.
   order: {
-    url: "https://locseva.satvictech.com/r/chill-cafe",
+    base: "https://locseva.satvictech.com/r/chill-cafe",
+    url: "https://locseva.satvictech.com/r/chill-cafe?mode=takeaway",
     label: "Order Online",
     poweredBy: "LocSeva",
+  },
+
+  booking: {
+    url: "https://locseva.satvictech.com/r/chill-cafe?mode=dinein",
+    label: "Book a Table",
+    tables: 4,
   },
 
   promises: [
@@ -95,11 +104,10 @@ export const mapsEmbed = `https://www.google.com/maps?q=${encodeURIComponent(
 export const whatsapp = (message = "Hi Chill Cafe! I'd like to place an order.") =>
   `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(message)}`;
 
-/** LocSeva accepts ?items=Name xQty, Name xQty to prefill the order form. */
 export const orderUrl = (items?: { name: string; qty: number }[]) => {
   if (!items?.length) return site.order.url;
   const list = items.map((i) => `${i.name} x${i.qty}`).join(", ");
-  return `${site.order.url}?items=${encodeURIComponent(list)}`;
+  return `${site.order.url}&items=${encodeURIComponent(list)}`;
 };
 
 export const fullAddress = [

@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion, useMotionValueEvent, useScroll } from "motion/react";
-import { Menu, X, Phone, ShoppingBag } from "lucide-react";
+import { Menu, X, Phone, ShoppingBag, CalendarCheck } from "lucide-react";
 import { nav, site } from "@/lib/site";
 import { Wordmark } from "@/components/ui/Wordmark";
 import { FireButton } from "@/components/ui/Button";
@@ -188,6 +188,15 @@ export function Nav() {
                 <FireButton href={site.order.url} external className="w-full">
                   Order Online
                 </FireButton>
+                <a
+                  href={site.booking.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex w-full items-center justify-center gap-2.5 rounded-full border border-amber/35 bg-amber/[0.06] py-3.5 text-sm font-semibold text-amber"
+                >
+                  <CalendarCheck className="size-4" strokeWidth={2.2} />
+                  Book a table
+                </a>
                 <div className="flex gap-3">
                   {site.phones.map((p) => (
                     <a

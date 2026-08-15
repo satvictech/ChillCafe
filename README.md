@@ -104,11 +104,22 @@ https://locseva.satvictech.com/r/chill-cafe?items=Cheese%20Burst%20Pizza%20x2%2C
 
 Built by `orderUrl()` in `lib/site.ts`.
 
-**Verified Aug 2026: LocSeva does not yet read `items` into a cart.** The param
-only switches the page from the dine-in table booking step to the takeaway
-ordering step — the customer still adds each dish by hand. Until LocSeva
-implements it, the WhatsApp handoff is the only route that actually carries the
-order across, and it does so as plain text.
+### What LocSeva reads today (verified Aug 2026)
+
+| Param | Effect |
+|---|---|
+| none | lands on **Reserve your table** (dine-in, step 1 of 2) |
+| `?items=…` | switches to the **takeaway** step, but does **not** fill a cart |
+| `?mode=takeaway` / `?mode=dinein` | ignored — accepted without error |
+
+So `items` currently only picks a tab; the customer still adds each dish by
+hand, and the WhatsApp handoff is the only route that actually carries the order
+across (as plain text).
+
+`mode` is sent on every link so ordering and booking stop sharing one landing
+step the moment LocSeva reads it. Order CTAs send `mode=takeaway`, booking CTAs
+send `mode=dinein`. Rename it in `lib/site.ts` if LocSeva settles on something
+else.
 
 ## Performance notes
 

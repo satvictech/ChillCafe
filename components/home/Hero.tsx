@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "motion/react";
-import { Star, Clock, ArrowDown } from "lucide-react";
+import { Star, Clock, ArrowDown, CalendarCheck } from "lucide-react";
 import { site } from "@/lib/site";
 import { itemCount, priceRange } from "@/lib/menu";
 import { heroPhoto } from "@/lib/photos";
@@ -115,6 +115,19 @@ export function Hero() {
               See the full menu
             </GhostButton>
           </motion.div>
+
+          <motion.a
+            href={site.booking.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.8, delay: 0.46 }}
+            className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-muted transition-colors hover:text-amber"
+          >
+            <CalendarCheck className="size-4" strokeWidth={2.1} />
+            Or reserve a table for later
+          </motion.a>
 
           <motion.dl
             initial={{ opacity: 0 }}
