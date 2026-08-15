@@ -26,6 +26,9 @@ Isme aapka pura menu hai (saare 67 items, actual prices), aapke photos,
 timing, rating, cafe ka 3D view, aur "Order Online" button jo order
 seedha aapke paas bhejta hai. Phone pe khol ke dekhiye.
 
+Ordering aur table booking ka page alag se bhi khol sakte hain:
+https://locseva.satvictech.com/r/chill-cafe
+
 Delhi mein aisi website ka rate ₹10,000 se ₹25,000 tak hota hai. Koi bhi
 agency itna hi bolegi.
 
@@ -69,6 +72,9 @@ https://chill-cafe.vercel.app
 It has your full menu (all 67 items with real prices), your photos, your
 timings, your rating, a 3D view of your cafe, and an "Order Online"
 button that sends orders straight to you. Please open it on your phone.
+
+You can also open the ordering and table booking page on its own:
+https://locseva.satvictech.com/r/chill-cafe
 
 In Delhi a website like that costs ₹10,000 to ₹25,000. Any agency will quote
 you the same.
@@ -115,6 +121,8 @@ https://chill-cafe.vercel.app
 
 Pura menu (67 items, actual prices), aapke photos, timing, 3D view aur
 Order Online button — sab isme hai. Phone pe khol ke dekhiye.
+
+Ordering/table booking page: https://locseva.satvictech.com/r/chill-cafe
 ```
 
 ```

@@ -68,6 +68,10 @@ Please open it on your phone and try two things:
 1. The menu page — the full menu with real prices, searchable
 2. The "Order Online" button — that's LocSeva, our ordering system, working live
 
+You can also open the ordering and table booking page on its own:
+
+    https://locseva.satvictech.com/r/chill-cafe
+
 That's the customer's side. If you'd like to see your side of it — where the
 orders actually land — you can log into a test account right now:
 
@@ -120,7 +124,10 @@ Here's a live demo of what we make. Open it on your phone:
 {DEMO}
 
 Check the menu page, then press "Order Online" — that's LocSeva, our ordering
-system. We can build yours exactly like this with your menu and prices.
+system. Or open the ordering and table booking page directly:
+https://locseva.satvictech.com/r/chill-cafe
+
+We can build yours exactly like this with your menu and prices.
 ```
 
 ```
@@ -161,7 +168,8 @@ Hi {CAFE} 👋 Sushil here from Satvic Tech — we set up websites and online
 ordering for small cafes in Delhi. No commission, no app for your customers.
 
 Here's a live demo, open it on your phone 👉 {DEMO}
-Press "Order Online" on it to see the ordering system working.
+Press "Order Online" to see the ordering system, or open it directly 👉
+https://locseva.satvictech.com/r/chill-cafe
 
 Want to see where orders land? Log in at locseva.satvictech.com with
 9999999999 / PIN 2000 and place a test order on the demo.
